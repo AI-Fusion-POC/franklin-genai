@@ -1,3 +1,5 @@
 mountpoints:
   /: https://drive.google.com/drive/u/0/folders/1is2JNfXMMOfEum5dZ7YSsZffPHxZj8Ab
-  gd/: https://drive.google.com/drive/u/0/folders/161CJAuSseMgYRfGAsm4m6SJ3yKp0ln2k
+
+folders:
+/Campaign Docs Temp: https://drive.google.com/drive/u/0/folders/161CJAuSseMgYRfGAsm4m6SJ3yKp0ln2k 
