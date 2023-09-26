@@ -1,6 +1,6 @@
 mountpoints:
- /gd: https://drive.google.com/drive/u/0/my-drive 
+ /gd: https://drive.google.com/drive/u/0/my-driveu/0/folders
 
 folders:
-/AI Content: https://drive.google.com/drive/u/0/folders/1is2JNfXMMOfEum5dZ7YSsZffPHxZj8Ab 
-/Campaign Docs Temp: https://drive.google.com/drive/u/0/folders/161CJAuSseMgYRfGAsm4m6SJ3yKp0ln2k 
+/AI Content: /1is2JNfXMMOfEum5dZ7YSsZffPHxZj8Ab 
+/Campaign Docs Temp: /161CJAuSseMgYRfGAsm4m6SJ3yKp0ln2k 
